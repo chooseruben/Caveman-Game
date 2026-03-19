@@ -50,7 +50,7 @@ During this team project, I contributed across both design and development:
 - Implemented **level traps and environmental hazards**
 - Built the **UI Health Bar system** for player feedback
 - Contributed to **art design and visual elements** of the game
-- Worked as an **engineer (C# in Unity)** to implement gameplay mechanics
+- Implemented gameplay logic using **C# scripting in Unity**
 - Developed the **Dialogue UI system** for in-game interactions
 
 ---
