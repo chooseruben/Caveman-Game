@@ -50,4 +50,4 @@ This section will outline my individual contributions to the project as developm
 
 Watch a short trailer of the game here:
 
-[Game Trailer](https://www.youtube.com/watch?v=KxXGHAPSgXc)
+[Manic Slime Games: Unga Paradox](https://www.youtube.com/watch?v=KxXGHAPSgXc)
