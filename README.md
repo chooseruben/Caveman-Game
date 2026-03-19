@@ -43,8 +43,15 @@ A 2D open-world adventure game about a caveman exiled from his tribe who teams u
 
 ---
 
-## 👤 Contributions (Coming Soon)
-This section will outline my individual contributions to the project as development progresses (e.g., implemented player movement, designed collision system, created crafting logic).
+## 👨🏻‍💻 My Contributions
+During this team project, I contributed across both design and development:
+
+- Designed and developed **Level 1 and Level 2**, including layout and gameplay flow
+- Implemented **level traps and environmental hazards**
+- Built the **UI Health Bar system** for player feedback
+- Contributed to **art design and visual elements** of the game
+- Worked as an **engineer (C# in Unity)** to implement gameplay mechanics
+- Developed the **Dialogue UI system** for in-game interactions
 
 ---
 
