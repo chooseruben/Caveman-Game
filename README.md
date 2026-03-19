@@ -48,7 +48,7 @@ During this team project, I contributed across both design and development:
 
 ---
 
-## 🎬 Gameplay Trailer
+## 🎬 Game Trailer
 
 Watch a short trailer of the game here:
 
