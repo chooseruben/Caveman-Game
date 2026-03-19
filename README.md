@@ -48,6 +48,6 @@ This section will outline my individual contributions to the project as developm
 
 ## Gameplay Trailer
 
-Watch a short demo of the game here:
+Watch a short trailer of the game here:
 
-[Gameplay Demo Video](https://www.youtube.com/watch?v=KxXGHAPSgXc)
+[Game Trailer](https://www.youtube.com/watch?v=KxXGHAPSgXc)
