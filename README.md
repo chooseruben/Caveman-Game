@@ -6,9 +6,10 @@ A 2D open-world adventure game about a caveman exiled from his tribe who teams u
 ---
 
 ## 📸 Screen Shots
-![Gameplay 1]<img width="1468" height="830" alt="caveman1" src="https://github.com/user-attachments/assets/4e25e70a-9a2b-438f-9a68-8b9f4a915df4" />
-()  
-![Gameplay 2](Users/radon/Desktop/caveman2.png)
+<img width="1468" height="830" alt="caveman1" src="https://github.com/user-attachments/assets/4e25e70a-9a2b-438f-9a68-8b9f4a915df4" />
+
+<img width="1470" height="827" alt="caveman2" src="https://github.com/user-attachments/assets/97f5bac2-5fd3-4612-ac38-9be468ba904c" />
+
 ---
 
 ## 🎬 Game Trailer
