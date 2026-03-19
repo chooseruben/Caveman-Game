@@ -5,6 +5,18 @@ A 2D open-world adventure game about a caveman exiled from his tribe who teams u
 
 ---
 
+## 📸 Screen Shots
+
+---
+
+## 🎬 Game Trailer
+
+Watch the official trailer showcasing gameplay and core mechanics:
+
+[Manic Slime Games: Unga Paradox](https://www.youtube.com/watch?v=KxXGHAPSgXc)
+
+---
+
 ## 🎮 Game Concept
 - **Genre:** 2D Action-Adventure, Survival  
 - **Inspiration:** *Castle Crashers* + *Don’t Starve*  
@@ -16,16 +28,6 @@ A 2D open-world adventure game about a caveman exiled from his tribe who teams u
 - **Protagonist:** A determined caveman seeking revenge and redemption after being exiled.  
 - **Scientist:** A stranded time traveler relying on the caveman to repair his device and get home.  
 - **Antagonists:** Mixture of prehistoric animals and people wielding futuristic weapons (e.g., monkeys with ray guns, ex-tribe leader on a mammoth with a blaster).  
-
----
-
-## Team Project
-
-This game was developed as part of the **Introduction to Game Development** course at the University of Houston.
-
-The project was developed collaboratively with classmates using GitHub for version control.
-
-My personal GitHub repository showcases the project concept, development progress, and my individual contributions.
 
 ---
 
@@ -48,8 +50,14 @@ During this team project, I contributed across both design and development:
 
 ---
 
-## 🎬 Game Trailer
+## What I Learned
 
-Watch the official trailer showcasing gameplay and core mechanics:
+---
 
-[Manic Slime Games: Unga Paradox](https://www.youtube.com/watch?v=KxXGHAPSgXc)
+## Team Project
+
+This game was developed as part of the **Introduction to Game Development** course at the University of Houston.
+
+The project was developed collaboratively with classmates using GitHub for version control.
+
+My personal GitHub repository showcases the project concept, development progress, and my individual contributions.
