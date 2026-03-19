@@ -50,6 +50,6 @@ During this team project, I contributed across both design and development:
 
 ## 🎬 Game Trailer
 
-Watch a short trailer of the game here:
+Watch the official trailer showcasing gameplay and core mechanics:
 
 [Manic Slime Games: Unga Paradox](https://www.youtube.com/watch?v=KxXGHAPSgXc)
