@@ -34,7 +34,13 @@ Watch the official trailer showcasing gameplay and core mechanics:
 ## 🛠️ Tech Stack
 - **Engine:** Unity  
 - **Language:** C#  
-- **Version Control:** GitHub  
+- **Version Control:** Git & GitHub
+- Art Tools: Aseprite (pixel art creation)  
+- Game Systems:  
+  - Player Movement & Collision  
+  - Enemy AI Behavior  
+  - UI Systems (Health Bar, Dialogue UI)  
+- Development Type: 2D Game Development  
 
 ---
 
