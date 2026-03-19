@@ -47,9 +47,9 @@ A 2D open-world adventure game about a caveman exiled from his tribe who teams u
 During this team project, I contributed across both design and development:
 
 - Designed and developed **Level 1 and Level 2**, including layout and gameplay flow
-- Implemented **level traps and environmental hazards**
-- Built the **UI Health Bar system** for player feedback
-- Contributed to **art design and visual elements** of the game
+- Created **level traps and environmental hazards**, including both functionality and visual design 
+- Designed and implemented the **UI Health Bar system**, including custom pixel art created from scratch using Aseprite
+- Produced **original art assets** for levels and UI elements using Aseprite  
 - Implemented gameplay logic using **C# scripting in Unity**
 - Developed the **Dialogue UI system** for in-game interactions
 
