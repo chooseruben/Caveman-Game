@@ -46,7 +46,7 @@ A 2D open-world adventure game about a caveman exiled from his tribe who teams u
 ## 👤 Contributions (Coming Soon)
 This section will outline my individual contributions to the project as development progresses (e.g., implemented player movement, designed collision system, created crafting logic).
 
-## Gameplay Trailer
+## 🎬 Gameplay Trailer
 
 Watch a short trailer of the game here:
 
