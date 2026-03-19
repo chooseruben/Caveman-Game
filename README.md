@@ -8,7 +8,7 @@ A 2D open-world adventure game about a caveman exiled from his tribe who teams u
 ## 🔗 Original Repository
 
 This project was originally developed collaboratively.  
-View the original team repository here: [https://github.com/khangchung15/Unga-Paradox.git] 
+View the original team repository here: https://github.com/khangchung15/Unga-Paradox.git
 
 ---
 
