@@ -19,12 +19,13 @@ A 2D open-world adventure game about a caveman exiled from his tribe who teams u
 
 ---
 
-## 🕹️ Planned Features
-- **Chapters:** Three main chapters telling the caveman’s story  
-- **Combat:** Beat-'em-up style combat with enemies and boss fights  
-- **Crafting:** Collect items to craft tools, weapons, and upgrades  
-- **Progression:** Skill tree or leveling system to make the caveman stronger over time  
-- **Humor:** Lighthearted story and dialogue with comedic elements  
+## Team Project
+
+This game was developed as part of the **Introduction to Game Development** course at the University of Houston.
+
+The project was developed collaboratively with classmates using GitHub for version control.
+
+My personal GitHub repository showcases the project concept, development progress, and my individual contributions.
 
 ---
 
