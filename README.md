@@ -6,7 +6,8 @@ A 2D open-world adventure game about a caveman exiled from his tribe who teams u
 ---
 
 ## 📸 Screen Shots
-
+![Gameplay 1](Users/radon/Desktop/caveman2.png)  
+![Gameplay 2](Users/radon/Desktop/caveman2.png)
 ---
 
 ## 🎬 Game Trailer
@@ -56,7 +57,11 @@ During this team project, I contributed across both design and development:
 
 ---
 
-## What I Learned
+## 📚 What I Learned
+- Gained hands-on experience building a 2D game using Unity and C#
+- Learned how to design and implement game systems such as UI, dialogue, and level mechanics
+- Improved collaboration skills using GitHub in a team environment
+- Developed experience creating custom pixel art assets using Aseprite
 
 ---
 
