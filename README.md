@@ -1,5 +1,5 @@
-# 🪨 Caveman Chronicles *(Working Title)*
-**Status:** In Progress | **Course:** Introduction to Game Development (Fall 2025)
+# 🪨 Unga Paradox
+**Course:** Introduction to Game Development (Fall 2025)
 
 A 2D open-world adventure game about a caveman exiled from his tribe who teams up with a stranded time-traveling scientist. Together, they must gather items, grow stronger, and face prehistoric enemies wielding futuristic weapons caused by a timeline accident.
 
@@ -33,14 +33,6 @@ My personal GitHub repository showcases the project concept, development progres
 - **Engine:** Unity  
 - **Language:** C#  
 - **Version Control:** GitHub  
-
----
-
-## 📅 Development Status
-- ✅ Project planning and character design completed  
-- ✅ Initial repository created  
-- 🚧 Core mechanics (movement, collision detection) – *In Progress*  
-- 🔜 Enemy AI, crafting system, boss fights  
 
 ---
 
