@@ -2,6 +2,7 @@
 **Course:** Introduction to Game Development (Fall 2025)
 
 A 2D open-world adventure game about a caveman exiled from his tribe who teams up with a stranded time-traveling scientist. Together, they must gather items, grow stronger, and face prehistoric enemies wielding futuristic weapons caused by a timeline accident.
+[Manic Slime Games: Unga Paradox](https://airplanecompany.itch.io/unga-paradox)
 
 ---
 
@@ -9,7 +10,7 @@ A 2D open-world adventure game about a caveman exiled from his tribe who teams u
 
 This project was originally developed collaboratively.  
 View the original team repository here: https://github.com/khangchung15/Unga-Paradox.git
-[Manic Slime Games: Unga Paradox](https://airplanecompany.itch.io/unga-paradox)
+[Manic Slime Games: Unga Paradox](https://github.com/khangchung15/Unga-Paradox)
 
 ---
 
